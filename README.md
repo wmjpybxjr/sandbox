@@ -1,17 +1,14 @@
 # sandbox
 
-Personal scratch space for experiments, snippets, and throwaway code.
+Personal testing ground for scripts, configs, and quick experiments.
 
 ## Contents
 
-- `k8s/` — Kubernetes manifests and probes
-- `scripts/` — small helpers for local tooling
-- `notes/` — quick reference notes (prometheus, etc.)
+- `notes/` – random operational notes
+- `bin/` – small utilities
 
 ## Usage
 
 Clone and poke around. Nothing here is production-ready.
 
-## License
-
-MIT (for whatever that's worth).
+Last updated: 2026-08-14
